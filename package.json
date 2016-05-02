@@ -1,8 +1,8 @@
 {
   "name": "promise-polyfills",
-  "version": "1.0.0",
+  "version": "7.0.4",
   "description": "Browserified Promise Polyfills from https://www.promisejs.org",
-  "main": "promise-7.0.4.js",
+  "main": "promise.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
