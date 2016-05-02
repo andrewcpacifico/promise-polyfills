@@ -1,2 +1,2 @@
 # promise-polyfills
-Promise Polyfills from https://www.promisejs.org
+Browserified Promise Polyfills from https://www.promisejs.org

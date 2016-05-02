@@ -1,0 +1,19 @@
+{
+  "name": "promise-polyfills",
+  "version": "1.0.0",
+  "description": "Browserified Promise Polyfills from https://www.promisejs.org",
+  "main": "promise-7.0.4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewcpacifico/promise-polyfills.git"
+  },
+  "author": "Andrew C. Pacifico <andrewcpacifico@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewcpacifico/promise-polyfills/issues"
+  },
+  "homepage": "https://github.com/andrewcpacifico/promise-polyfills#readme"
+}
